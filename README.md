@@ -1,20 +1,20 @@
 # FDPCNClient
-[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.ink/trekhleb/state-of-the-art-shitcode)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/UnlegitMinecraft/FDPClientChina)
 ![GitHub lines of code](https://tokei.rs/b1/github/UnlegitMinecraft/FDPClientChina)
 ![GitHub Star](https://img.shields.io/github/stars/UnlegitMinecraft/FDPClientChina?style=flat-square)
-[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2FSteamTools-Team%2FSteamTools%2Fbadge%3Fref%3Ddevelop&style=flat-square)](https://github.com/UnlegitMinecraft/FDPClientChina/actions/workflows/build.yml?query=event%3Apush)
-[![Release Download](https://img.shields.io/github/downloads/UnlegitMinecraft/FDPClientChina/total?style=flat-square)](https://github.com/UnlegitMinecraft/FDPClientChina/releases)
+[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2FSteamTools-Team%2FSteamTools%2Fbadge%3Fref%3Ddevelop&style=flat-square)](https://github.ink/UnlegitMinecraft/FDPClientChina/actions/workflows/build.yml?query=event%3Apush)
+[![Release Download](https://img.shields.io/github/downloads/UnlegitMinecraft/FDPClientChina/total?style=flat-square)](https://github.ink/UnlegitMinecraft/FDPClientChina/releases)
 [![Maintainability](https://api.codeclimate.com/v1/badges/a41ae7bde63c143e426a/maintainability)](https://codeclimate.com/github/UnlegitMinecraft/FDPClientChina/maintainability)
 ![Minecraft](https://img.shields.io/badge/game-Minecraft-brightgreen)  
-A free mixin-based injection hacked-client for Minecraft using Minecraft Forge based on LiquidBounce.
+A free mixin-based injection hacked-client for M1necraft using Minecraft Forge based on LiquidBounce.
 
 Website: https://FDPClient.club 
-Latest: [github-actions](https://github.com/UnlegitMinecraft/FDPClientChina/actions/workflows/build.yml?query=event%3Apush)    
+Latest: [github-actions](https://github.ink/UnlegitMinecraft/FDPClientChina/actions/workflows/build.yml?query=event%3Apush)    
 Discord: https://discord.gg/55x7TaHWXG  
 
 ## Issues
-If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/UnlegitMinecraft/FDPClientChina/issues).
+If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.ink/UnlegitMinecraft/FDPClientChina/issues).
 
 ## License
 This project is subject to the [GNU General Public License v3.0](LICENSE). This does only apply for source code located directly in this clean repository. During the development and compilation process, additional source code may be used to which we have obtained no rights. Such code is not covered by the GPL license.
@@ -35,7 +35,7 @@ Do the above and share your source code with everyone; just like we do.
 
 ## Setting up a Workspace
 FDPClient uses gradle, so make sure that it is installed properly. Instructions can be found on [Gradle's website](https://gradle.org/install/).
-1. Clone the repository using `git clone --recurse-submodules https://github.com/UnlegitMinecraft/FDPClientChina.git`. 
+1. Clone the repository using `git clone --recurse-submodules https://github.ink/UnlegitMinecraft/FDPClientChina.git`. 
 2. CD into the local repository folder.
 3. Depending on which IDE you are using execute either of the following commands:
     - For IntelliJ: `gradlew --debug setupDevWorkspace idea genIntellijRuns build`
@@ -52,7 +52,7 @@ We are welcome for your contributing, but you have to follow these rules to make
 
 ### Language and Code Quality
 First of all, your code at least can be build, and make bugs as less as you can!   
-And we want to use kotlin features to make coding easier and faster, please use kotlin and make the [Detekt](https://github.com/detekt/detekt) code quality check good and use kotlin features if you can **\***, we never merge shitcode.
+And we want to use kotlin features to make coding easier and faster, please use kotlin and make the [Detekt](https://github.ink/detekt/detekt) code quality check good and use kotlin features if you can **\***, we never merge shitcode.
 
 #### Kotlin features
 Usage of kotlin features and help enhance the code readability    
